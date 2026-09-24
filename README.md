@@ -1,6 +1,13 @@
-# 428
+# 사주시각 (428)
 
-사주시각은 생년월일시를 사주팔자와 오행 데이터로 계산한 뒤, 그 구조를 개인용 그래픽 심볼과 굿즈 미리보기로 변환하는 Next.js 기반 실험 프로젝트입니다.
+생년월일시를 사주팔자와 오행 데이터로 계산한 뒤, 그 구조를 개인용 그래픽 심볼과
+굿즈 미리보기로 변환하는 Next.js 기반 실험 프로젝트입니다.
+
+**A visual system that translates Four Pillars (saju) birth data into personal graphic
+symbols** - five-element ratios, day-master, and yin-yang structure become generative
+SVG artwork, previewed in 3D and as physical goods.
+
+<!-- TODO(여남규): 생성 심볼 예시 + 굿즈 미리보기 스크린샷 추가 -->
 
 ## Concept
 
